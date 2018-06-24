@@ -190,8 +190,9 @@ http://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/DSBjpDP.jpg" group-title="24/7",Christmas Fireplace
 http://silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfireplace_master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/n1AJtRokP_w/maxresdefault.jpg" group-title="24/7",Fish Tank
-http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tmKtbf9.png" group-title="USA",Capital City Connection
+http://na-us-se13.secdn.net/pegstream3-live/play/5f0d9ca5-4e85-4c01-a426-9ec8d44c2c9c/playlist.m3u8
 
 #EXTINF:0, HEART TV (Music) (US) (English)
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
