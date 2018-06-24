@@ -54,8 +54,9 @@ http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
 #EXTINF:-1,
 http://bitllarrobledo.com/wp-content/uploads/2015/12/canal4.jpg"
 
-#EXTINF:-1, show
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ss",ss
 http://localhost:8080/VID1529736861186.mp4
+
 
 #EXTINF:-1,
 http://www.canal25tv.es/images/template-content/untitled.png"
