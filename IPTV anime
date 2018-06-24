@@ -23,14 +23,18 @@ http://93.87.85.10/PLTV/88888888/224/3221226588/index.m3u8?rrsip=93.87.85.10&zon
 #EXTINF:-1,
 http://i.imgur.com/6FepRzn.png"
 
-#EXTINF:-1,
-https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo-4.png"
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/MH7kNnl.png" group-title="NEWS",CBS News (USA)
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
-#EXTINF:-1,
-http://ucstv.com.br/wp-content/uploads/2015/02/logo_siteucstv.png"
 
-#EXTINF:-1,
-https://yt3.ggpht.com/-7goHLt_GUT4/AAAAAAAAAAI/AAAAAAAAAAA/WYzGwTryx-o/c-k-no/photo.jpg"
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SvQJJD4.png" group-title="NEWS",MSNBC (USA)
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1296_av-p.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://corporate.pluto.tv/wp-content/uploads/2016/05/Pluto_logo-white_675x675.png" group-title="NEWS",Pluto TV News (USA)
+http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=weby
+
 
 #EXTINF:-1,USA Fight Network
 http://tv.bmx-tv.top:1935/live/2.smil/playlist.m3u8
@@ -185,5 +189,13 @@ http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZKQfV3y.png" group-title="NEWS",C-SPAN (USA)
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/z4yGp8x.png" group-title="NEWS",C-SPAN 2 (USA)
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PgkXesQ.png" group-title="NEWS",C-SPAN 3 (USA)
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
 
 
