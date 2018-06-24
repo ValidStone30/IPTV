@@ -202,4 +202,6 @@ http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PgkXesQ.png" group-title="NEWS",C-SPAN 3 (USA)
 http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE Alternative",MUSIC CHOICE Alternative
+https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC122/chunklist.m3u8
 
