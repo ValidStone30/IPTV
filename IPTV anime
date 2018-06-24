@@ -6,8 +6,9 @@ http://4.bp.blogspot.com/-mlFvknLpfgE/VQy5lg2IcyI/AAAAAAAAAXc/w4LPztKxtKc/s320/C
 #EXTINF:-1,
 http://1.bp.blogspot.com/-oaM5k7pbu3A/ULKcb6odA1I/AAAAAAAAXko/nmQ_WMr0c4k/s1600/canal26hd.png"
 
-#EXTINF:-1,Telesur (arg)
-http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
+#EXTINF:0,[USA]---ABC NEWS
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+
 
 #EXTINF:-1,
 http://2.bp.blogspot.com/-FS7BOEiTZuY/UDFmV5bsaCI/AAAAAAAAByA/YWo48CK0PsY/s1600/red+bull+tv.png"
