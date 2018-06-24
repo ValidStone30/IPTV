@@ -1,0 +1,74 @@
+#EXTINF:0, tvg-logo="https://pbs.twimg.com/profile_images/703867707318374400/zHFerbz0_400x400.jpg", Aljazeera 
+http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index1296.m3u8
+
+#EXTINF:0, tvg-logo="https://pbs.twimg.com/profile_images/486086685399085057/Q4GRhufl.png", Aljazeera mubasher
+http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/800.m3u8
+
+
+
+#EXTINF:0, tvg-logo="https://pbs.twimg.com/profile_images/562375849388032000/Cuxjmsx5_400x400.png,BBC 
+http://bbcwslive.mmdlive.lldns.net/bbcwslive/333091d555e2404785a0339bf4779ac1/chunklist_b864000.m3u8?v=3157759918
+
+#EXTINF:0, tvg-logo="https://pbs.twimg.com/profile_images/904702296784863232/cJklnl4__400x400.jpg",Sky News HD
+https://stream.skynewsarabia.com/hls/sna_720.m3u8
+
+#EXTINF:0, tvg-logo="https://pbs.twimg.com/profile_images/904702296784863232/cJklnl4__400x400.jpg",Sky News 
+https://stream.skynewsarabia.com/hls/sna_480.m3u8
+
+#EXTINF:0, tvg-logo="http://s2.dmcdn.net/ieebE/240x240-P-X.png", FRANCE 24
+http://f24hls-i.akamaihd.net/hls/live/221196/F24_AR_LO_HLS/master_900.m3u8
+
+#EXTINF:0, tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/RTArabic.png", RT HD
+https://secure-streams.akamaized.net/rt-arab/index2500.m3u8
+
+#EXTINF:0, tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/RTArabic.png", RT 
+https://secure-streams.akamaized.net/rt-arab/index1600.m3u8
+
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/794265615989112832/NZjXhv6A_400x400.jpg",MBC
+http://selevision9895-i.akamaihd.net/hls/live/219367/98950/1.m3u8 
+
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/378800000338486855/0b44b3373e9f7d0a459cd2c63e055705_400x400.jpeg", MBC Drama 
+http://selevision9877-i.akamaihd.net/hls/live/219123/98775/1.m3u8 
+
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/2325159358/zqf01j3bx2atmuygsiuk_400x400.jpeg", MBC 4 
+http://selevision9880-i.akamaihd.net/hls/live/219176/98803/1.m3u8 
+
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/692289004801245184/GEXCfGii_400x400.jpg", MBC Action 
+http://selevision9880-i.akamaihd.net/hls/live/219177/98804/1.m3u8 
+
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/378800000502363621/fdd8dd8a31bf82c1dc16f2c927f88ac9_400x400.jpeg", MBC bollywood
+http://selevision9894-i.akamaihd.net/hls/live/219366/98949/1.m3u8
+
+
+#EXTINF:0, tvg-logo="https://pbs.twimg.com/profile_images/705029664323063808/DnWRDV5R_400x400.jpg", MBC MASR 1
+http://selevision9893-i.akamaihd.net/hls/live/219355/98938/1.m3u8
+
+#EXTINF:0, tvg-logo="https://pbs.twimg.com/profile_images/531362651599687680/1Y4VkRed_400x400.jpeg", MBC MASR 2
+http://selevision9889-i.akamaihd.net/hls/live/219312/98895/1.m3u8
+
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/845767313429352448/wI1Z8A_a.jpg", SAUDI SPORT 24
+ http://streamer12.elementssys.com:8080/SAUDI-Channels/24_SPORT/index.m3u8 
+
+
+#EXTINF:0, tvg-logo="https://yt3.ggpht.com/a-/AJLlDp3nj_gGc672pvaHePn5TvJ_8wh_LeXlGH2ilQ=s900-mo-c-c0xffffffff-rj-k-no", funoontv
+http://selevision9883-i.akamaihd.net/hls/live/219206/98832/1.m3u8
+
+#EXTINF:0, tvg-logo="https://pbs.twimg.com/profile_images/929440769047519232/P5wSnSCA_400x400.jpg",DUBAI TV HD
+http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.smil/chunklist_b1800000.m3u8
+
+
+
+#EXTINF:0, tvg-logo="https://pbs.twimg.com/profile_images/646981027005509632/slJzsNUj_400x400.jpg", SAMA DUBAI HD
+http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.smil/chunklist_b1600000.m3u8
+
+#EXTINF:0, tvg-logo="https://pbs.twimg.com/profile_images/868838872939155458/-j3LUDTC_400x400.jpg", DUBAI ZAMAN
+http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1500000.m3u8
+
+
+
+#EXTINF:0, tvg-logo="https://pbs.twimg.com/profile_images/868839038031212546/VxzGAjkg_400x400.jpg", DUBAI ONE HD
+http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b1800000.m3u8
+
+
+
+#EXTINF:0, tvg-logo="http://admin.mangomolo.com/analytics/uploads/71/icons/live/noordubai17.png", DUBAI NOO
