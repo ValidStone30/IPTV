@@ -42,17 +42,20 @@ http://tv.bmx-tv.top:1935/live/2.smil/playlist.m3u8
 #EXTINF:-1,
 https://yt3.ggpht.com/-o66JhzIYX98/AAAAAAAAAAI/AAAAAAAAAAA/wsQRRzTAa3w/s900-c-k-no-mo-rj-c0xffffff/photo.jpg"
 
-#EXTINF:-1,
-http://directostv.teleame.com/wp-content/uploads/2016/01/aragon-tv-logo.png"
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oC2FzqY.png" group-title="NEWS",Sky News (UK)
+http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
 
-#EXTINF:-1,
-http://www.culturamas.es/wp-content/uploads/2015/11/atreseries-3.png"
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cbc.ca/mediacentre/content/images/News_header-750x360.jpg" group-title="NEWS",CBC News (Canada)
+http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
 
 #EXTINF:-1,
 http://bitllarrobledo.com/wp-content/uploads/2015/12/canal4.jpg"
 
-#EXTINF:-1,
-https://i.imgur.com/kLzKyaA.jpg"
+#EXTINF:-1, show
+http://localhost:8080/VID1529736861186.mp4
 
 #EXTINF:-1,
 http://www.canal25tv.es/images/template-content/untitled.png"
@@ -102,8 +105,9 @@ http://www.canalmimusica.com/wp-content/uploads/2012/10/MIMUSICA-HD-GRANDE1.png"
 #EXTINF:-1,
 https://yt3.ggpht.com/-3y0PLzhwrig/AAAAAAAAAAI/AAAAAAAAAAA/u423NXvcb_4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg"
 
-#EXTINF:-1,
-https://yt3.ggpht.com/-9aM1tcTrdZE/AAAAAAAAAAI/AAAAAAAAAAA/WFqCRbAPIXI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg"
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tmKtbf9.png" group-title="USA",Capital City Connection
+http://na-us-se13.secdn.net/pegstream3-live/play/5f0d9ca5-4e85-4c01-a426-9ec8d44c2c9c/playlist.m3u8
+
 
 #EXTINF:-1,CARACOL TV
 https://mdstrm.com/live-stream-playlist_IPTVColombia/58dc3d471cbe05ff3c8e463e.m3u8
@@ -153,7 +157,7 @@ http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 http://live.cgtn.com/500/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" group-title="WORLD NEWS",CGTN (Opt-2)
-http://live.cgtn.com/1000/prog_index.m3u8
+http://live.cgtn.com/500/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YEs2cGe.png" group-title="WORLD NEWS",Deutsche Welle
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
