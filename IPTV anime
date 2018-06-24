@@ -17,8 +17,8 @@ http://93.87.85.10/PLTV/88888888/224/3221226771/index.m3u8?rrsip=93.87.85.10&zon
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 
 
-#EXTINF:-1,
-http://3.bp.blogspot.com/-MxFVv8kb3V4/VOY5A8D-VaI/AAAAAAAAAPA/hsjTaa44_3s/s1600/icon.png"
+#EXTINF:-1,Movies AXN
+http://93.87.85.10/PLTV/88888888/224/3221226588/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA94tjvcqC92jhgBqS37pLbNGE83hVeZnvlq6x3jl8IWAA%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001780%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
 
 #EXTINF:-1,
 http://i.imgur.com/6FepRzn.png"
@@ -32,8 +32,8 @@ http://ucstv.com.br/wp-content/uploads/2015/02/logo_siteucstv.png"
 #EXTINF:-1,
 https://yt3.ggpht.com/-7goHLt_GUT4/AAAAAAAAAAI/AAAAAAAAAAA/WYzGwTryx-o/c-k-no/photo.jpg"
 
-#EXTINF:-1,
-http://directostv.teleame.com/wp-content/uploads/2016/01/25-tv-barcelona-en-directo-online.png"
+#EXTINF:-1,USA Fight Network
+http://tv.bmx-tv.top:1935/live/2.smil/playlist.m3u8
 
 #EXTINF:-1,
 https://yt3.ggpht.com/-o66JhzIYX98/AAAAAAAAAAI/AAAAAAAAAAA/wsQRRzTAa3w/s900-c-k-no-mo-rj-c0xffffff/photo.jpg"
