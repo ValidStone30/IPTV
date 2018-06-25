@@ -1,10 +1,13 @@
 #EXTM3U Para más listas iptv visitanos en https://www.premiumtv.org/
-#EXTINF: -1 Alex Ronald CSE
-#EXTINF:-1,
-http://4.bp.blogspot.com/-mlFvknLpfgE/VQy5lg2IcyI/AAAAAAAAAXc/w4LPztKxtKc/s320/CantinazoTV.jpg"
+#EXTINF:-1,MTVNorge
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
-#EXTINF:-1,
-http://1.bp.blogspot.com/-oaM5k7pbu3A/ULKcb6odA1I/AAAAAAAAXko/nmQ_WMr0c4k/s1600/canal26hd.png"
+#EXTINF:-1 tvg-id="" tvg-name="AKC TV" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1633_orig.png" group-title="USA Entertainment", AKC TV
+https://video.blivenyc.com/broadcast/2061/22/file-858k.m3u8
+
+
+#EXTINF:-1,CMC HD en
+http://cmctv.ios.internapcdn.net:80/cmctv_vitalstream_com/live_1/CMC-TV/CCURstream.m3u8
 
 #EXTINF:0,[USA]---ABC NEWS
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
