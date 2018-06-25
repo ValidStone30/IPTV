@@ -23,8 +23,9 @@ http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u
 #EXTINF:-1,Movies AXN
 http://93.87.85.10/PLTV/88888888/224/3221226588/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA94tjvcqC92jhgBqS37pLbNGE83hVeZnvlq6x3jl8IWAA%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001780%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
 
-#EXTINF:-1,
-http://i.imgur.com/6FepRzn.png"
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Discovery_Turbo.svg/1024px-Discovery_Turbo.svg.png" group-title="UK", Discovery Turbo
+http://62.210.93.115:80/live?channelId=35&uid=3908&deviceMac=00:1A:79:4A:AD:B3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/MH7kNnl.png" group-title="NEWS",CBS News (USA)
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
@@ -62,8 +63,9 @@ http://localhost:8080/VID1529736861186.mp4
 
 
 
-#EXTINF:-1 tvg-id="36" tvg-name="HBO" tvg-logo="http://2.bp.blogspot.com/-Js3x7U4wjhQ/UNNIXJp3hfI/AAAAAAAAMmk/gGdedqk5jHc/s1600/HBO-icon.png",HBO Adria
-http://93.87.85.10/PLTV/88888888/224/3221226927/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9C4tX%2BmB15uNvJo580%2B6pgCOkNbwuE4ye5xJA0ZjrUuQ%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001865%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i63.tinypic.com/2r43485.jpg" group-title="NEWS",Fox News
+http://185.59.223.73:1935/FoxNews/myStream/chunklist_w1923957988.m3u8
+
 
 #EXTINF:-1,
 https://yt3.ggpht.com/-VmyM6ux4ivw/AAAAAAAAAAI/AAAAAAAAAAA/PyvyJBePBbk/s900-c-k-no-mo-rj-c0xffffff/photo.jpg"
