@@ -216,3 +216,72 @@ http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC CHOICE Alternative",MUSIC CHOICE Alternative
 https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC122/chunklist.m3u8
 
+#EXTM3U
+#EXTINF:-1,BT Sport 1
+http://31.220.0.134:8081/live/jtvb1/playlist.m3u8
+#EXTINF:-1,BT Sport 2
+http://31.220.0.134:8081/live/jtvb2/playlist.m3u8
+#EXTINF:-1,BT Sport 3
+http://31.220.0.134:8081/live/jtvb3/playlist.m3u8 #EXTM3U
+#EXTINF:-1,BT Sport 1
+http://31.220.0.134:8081/live/jtvb1/playlist.m3u8
+#EXTINF:-1,BT Sport 2
+http://31.220.0.134:8081/live/jtvb2/playlist.m3u8
+#EXTINF:-1,BT Sport 3
+http://31.220.0.134:8081/live/jtvb3/playlist.m3u8
+#EXTINF:-1,SKY Sport 1
+http://31.220.0.134:8081/live/jtvs1/playlist.m3u8
+#EXTINF:-1,SKY Sport 2
+http://31.220.0.134:8081/live/jtvs2/playlist.m3u8
+#EXTINF:-1,SKY Sport 3
+http://31.220.0.134:8081/live/jtvs3/playlist.m3u8
+#EXTINF:-1,SKY Sport 4
+http://31.220.0.134:8081/live/jtvs4/playlist.m3u8
+#EXTINF:-1,SKY Sport 5
+http://31.220.0.134:8081/live/jtvs5/playlist.m3u8 #EXTM3U
+#EXTINF:-1,BT SPORT 2
+http://31.220.0.196:8081/live/ctvb2/playlist.m3u8
+#EXTINF:-1,BT SPORT 1
+http://31.220.0.196:8081/live/ctvb1/playlist.m3u8 #EXTINF:-1,SKY Sport 1 UK
+http://cdnv.cli.tn/iptv/ch922?code=610116485444847
+#EXTINF:-1,Sky Sport 2 UK
+http://cdnv.cli.tn/iptv/ch937?code=610116485444847
+#EXTINF:-1,SKY Sport 3 UK
+http://cdnv.cli.tn/iptv/ch914?code=610116485444847
+#EXTINF:-1,SKY Sport 4 UK
+http://cdnv.cli.tn/iptv/ch915?code=610116485444847
+#EXTINF:-1,SKY Sport 5 UK
+http://cdnv.cli.tn/iptv/ch916?code=610116485444847
+#EXTINF:-1,Sport Mix UK
+http://cdnv.cli.tn/iptv/ch931?code=610116485444847
+#EXTINF:-1,BT Sport 1
+http://cdnv.cli.tn/iptv/ch1828?code=610116485444847
+#EXTINF:-1,BT Sport 2
+http://cdnv.cli.tn/iptv/ch1829?code=610116485444847
+#EXTINF:-1,BT Sport Extra
+http://cdnv.cli.tn/iptv/ch1830?code=610116485444847  #EXTINF:1.06812,SkyFootball
+http://sportsbar.pw/lba/YjRhN2RlYjAxNWM2ZjIzYzM5ZjRmZmFmODEzOGQ3NGE=/g10/SkyFootball.m3u8
+#EXTINF:1.06811,BTSport3
+http://sportsbar.pw/lba/YjRhN2RlYjAxNWM2ZjIzYzM5ZjRmZmFmODEzOGQ3NGE=/g4/BTSport3.m3u8
+#EXTINF:2.2059,Bein3tk.
+http://sportsbar.pw/lba/YjRhN2RlYjAxNWM2ZjIzYzM5ZjRmZmFmODEzOGQ3NGE=/g8/bein3tk.m3u8 #EXTM3U
+#EXTINF:-1,BBCsport 
+http://185.59.221.136:9981/stream/channelid/650783408?ticket=4c27bbdb52ebd57967b51edbffa595d54108058e&profile=pass #EXTINF:-1 ,ITV1 HD
+http://185.59.221.136:9981/stream/channelid/1998784340?ticket=0b47b025e7dfcfa70ee686f65356823b4696e9e2&profile=pass
+
+#EXTINF:-1,ITV2 HD
+http://185.59.221.136:9981/stream/channelid/2139720971?ticket=5c8bd2021f95cb20b3a9fb025a136b06cfaaec7f&profile=pass #EXTINF:-1,Russia Today
+https://secure-streams.akamaized.net/rt/index2500.m3u8
+#EXTINF:-1,Russia Today Doc
+https://secure-streams.akamaized.net/rt-doc/index2500.m3u8
+#EXTINF:-1,Russia Today (Arabic)
+https://secure-streams.akamaized.net/rt-arab/index2500.m3u8
+#EXTINF:-1,RT News
+https://secure-streams.akamaized.net/rt/index.m3u8
+#EXTINF:-1,RT America
+https://secure-streams.akamaized.net/rt-usa/index2500.m3u8 #EXTINF:-1,travel us
+http://80.80.160.168/live/3/live.m3u8
+#EXTINF:-1,tlc
+http://80.80.160.168/live/2/live.m3u8 #EXTINF:-1, Discovery investigation
+http://80.80.160.168/live/5/live.m3u8 #EXTINF:-1,p green
+http://80.80.160.168/live/4/live.m3u8 
