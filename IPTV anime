@@ -50,7 +50,8 @@ http://80.80.160.168/live/3/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oC2FzqY.png" group-title="NEWS",Sky News (UK)
 http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
 
-
+#EXTINF:-1 tvg-id="CartoonNetwork.uk" tvg-name="Cartoon Network" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1436_orig.png" group-title="USA Entertainment", Cartoon Network
+http://vapi.vaders.tv/play/2439.m3u8?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9=
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cbc.ca/mediacentre/content/images/News_header-750x360.jpg" group-title="NEWS",CBC News (Canada)
@@ -87,7 +88,8 @@ https://content-ausw4.uplynk.com/channel/db762a708aa64082a610346d36654186/h.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wY0bIox.png" group-title="WORLD NEWS",Bloomberg TV Asia
 http://d1g4mbj10o50ni.cloudfront.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-700-1_live.m3u8
 
-
+#EXTINF:-1 tvg-id="DiscoveryChanel.uk" tvg-name="Discovery" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p965_1_orig.png" group-title="USA Entertainment", Discovery Channel HD
+http://vapi.vaders.tv/play/2445.m3u8?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9=
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uPvJzrz.png" group-title="USA",Investigation Discovery [HD]
@@ -158,8 +160,9 @@ http://bit.ly/MRAQCSAND
 #EXTINF:-1 tvg-logo="http://i.imgur.com/CvQCnwZ.png" group-title="INFO",* Fluxus IPTV
 https://archive.org/download/fluxustv/Fluxus_TV.mp4
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/pYWMEWN.png" group-title="INFO",+ Free IPTV
-http://stream.srg-ssr.ch/m/rsj/mp3_128
+#EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p1002_orig.png" group-title="USA Entertainment", HGTV HD
+http://vapi.vaders.tv/play/2454.m3u8?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9=
+
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= June.21.2018
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
@@ -182,7 +185,8 @@ http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/322122
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wY0bIox.png" group-title="WORLD NEWS",Bloomberg TV Europe
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 
-
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p979_1_orig.png" group-title="USA News", CNN *Fixed*
+http://vapi.vaders.tv/play/2442.m3u8?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9=
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/CGTN-America_Logo.png/1200px-CGTN-America_Logo.png" group-title="USA",CGTN America
 http://api.new.livestream.com/accounts/7082210/events/7115682/live.m3u8
@@ -301,5 +305,6 @@ https://secure-streams.akamaized.net/rt-arab/index2500.m3u8
 #EXTINF:-1,RT News
 https://secure-streams.akamaized.net/rt/index.m3u8
 #EXTINF:-1,RT America
-https://secure-streams.akamaized.net/rt-usa/index2500.m3u8 #EXTINF:-1,travel us
-http://80.80.160.168/live/3/live.m3u8
+https://secure-streams.akamaized.net/rt-usa/index2500.m3u8 
+http://80.80.160.168/live/3/live.m3u8 
+http://vapi.vaders.
