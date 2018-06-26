@@ -77,8 +77,9 @@ http://80.80.160.168/live/2/live.m3u8
 http://80.80.160.168/live/5/live.m3u8
 
 
-#EXTINF:-1,
-http://television.estepona.es/wp-content/uploads/2016/04/logortvs.png"
+
+#EXTINF:-1,CNBC
+http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
 
 #EXTINF:-1,
 http://2.bp.blogspot.com/-Grt64gpUA1w/UZH6VNoXDZI/AAAAAAAAXK4/aOHkzPorWAQ/s1600/etb-sat.png"
