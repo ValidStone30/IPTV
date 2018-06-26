@@ -106,17 +106,21 @@ http://93.87.85.10/PLTV/88888888/224/3221226591/index.m3u8?rrsip=93.87.85.10&zon
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2014/09/pop-logo.jpg" group-title="pop",pop
 https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master.m3u8
 
-#EXTINF:-1,group-title="ESPAÑA" La Sexta
-http://a3live-lh.akamaihd.net/i/lasexta/lasexta_1@35272/index_3_av-p.m3u8?sd=10&rebase=on
+ #EXTINF:0, tvg-id="" tvg-logo="https://i.imgur.com/hlot5v7.png" tvg-name="House of Representatives"  group-title="USA",House of Representatives
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
 
-#EXTINF:-1,
-http://canalcalitv.com/wp-content/uploads/2015/11/Logo_CaliTV.png"
 
-#EXTINF:-1,
-http://www.toplatino.net/wp-content/uploads/2011/06/logo_toplatino_horiz_300x131.jpg"
+#EXTINF:0, tvg-id="" tvg-logo="https://pmcvariety.files.wordpress.com/2015/03/destination-america.jpg" tvg-name="Destination America"  group-title="USA",Destination America
+https://content-ausw4.uplynk.com/channel/db762a708aa64082a610346d36654186/h.m3u8?pbs=7ef756186b5e4775bc6dec15cd74dd06
 
-#EXTINF:-1,
-https://www.fun88goal.com/wp-content/uploads/2015/05/sun-channel-tourism-tv-logo-primary.jpg"
+
+#EXTINF:0, tvg-id="" tvg-logo="https://pmcdeadline2.files.wordpress.com/2017/06/newsmax-tv-logo.jpg" tvg-name="Newsmax TV"  group-title="USA",Newsmax TV
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+
+#EXTINF:0, tvg-id="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn-documentary-logo.png" tvg-name="CGTN Documentary"  group-title="CHINA",CGTN Documentary
+http://live.cgtn.com/cctv-d.m3u8
+
 
 #EXTINF:-1,
 https://yt3.ggpht.com/-nvJRaOXtPRg/AAAAAAAAAAI/AAAAAAAAAAA/j2gX647cqF0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg"
