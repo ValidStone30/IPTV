@@ -99,8 +99,9 @@ https://content-ausw3.uplynk.com/channel/a6fe2dd55b3149a6a59154a93e348012/h.m3u8
 http://w3.cdn.anvato.net/live/ephemeral/3QA1gOwdRzqhnwPBUewI5VY7Yd9pnkvb/owny/4296k/index.m3u8
 
 
-#EXTINF:-1,
-http://www.panoramaaudiovisual.com/wp-content/uploads/2016/04/laSexta_NuevoLogo-325x289.jpg"
+#EXTINF:-1 tvg-id="35" tvg-name="AMC" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-logo="http://www.tvonline-live.com/wp-content/uploads/2013/05/Watch-AMC-Tv-Live-%E2%80%93-Free-Online-AMC-TV-Channel-US.png",AMC
+http://93.87.85.10/PLTV/88888888/224/3221226591/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA94tjvcqC92jhgBqS37pLbNO01J1m4%2B3Ui%2BEpHdLGr9D0%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001837%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C
+
 
 #EXTINF:-1,
 http://panamajazzfestival.com/wp-content/uploads/2015/11/nextv.png"
