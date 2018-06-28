@@ -96,7 +96,8 @@ http://vapi.vaders.tv/play/2445.m3u8?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uPvJzrz.png" group-title="USA",Investigation Discovery [HD]
 https://content-ausw3.uplynk.com/channel/a6fe2dd55b3149a6a59154a93e348012/h.m3u8?pbs=a089fc6c8ffc42d081b85ba79b60ab56
 
-
+EXTINF:-1,USA:The CW PIX 11 New York
+https://api.new.livestream.com/accounts/8896933/events/3104530/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/800px-OWN_2011_logo.svg.png"" group-title="OWN",OWN
 http://w3.cdn.anvato.net/live/ephemeral/3QA1gOwdRzqhnwPBUewI5VY7Yd9pnkvb/owny/4296k/index.m3u8
@@ -308,4 +309,73 @@ https://secure-streams.akamaized.net/rt/index.m3u8
 #EXTINF:-1,RT America
 https://secure-streams.akamaized.net/rt-usa/index2500.m3u8 
 http://80.80.160.168/live/3/live.m3u8 
-http://vapi.vaders.
+#EXTINF:0,(UK) BBC RED BUTTON
+https://ovh.easyview.eu/hls/bbcredbutton.m3u8
+#EXTINF:0,(UK) BBC NEWS
+https://ovh.easyview.eu/hls/bbcnews.m3u8
+#EXTINF:0,(UK) BBC PARLIAMENT
+https://ovh.easyview.eu/hls/bbc_parliament.m3u8
+#EXTINF:0,(UK) BBC ONE
+https://ovh.easyview.eu/hls/bbc1.m3u8
+#EXTINF:0,(UK) BBC TWO
+https://ovh.easyview.eu/hls/bbc2.m3u8
+#EXTINF:0,(UK) BBC THREE (OFF-AIR)
+https://ovh.easyview.eu/hls/bbc3.m3u8
+#EXTINF:0,(UK) BBC FOUR
+https://ovh.easyview.eu/hls/bbc4.m3u8
+#EXTINF:0,(UK) CBBC
+https://ovh.easyview.eu/hls/cbbc.m3u8
+#EXTINF:0,(UK) CBEEBIES
+https://ovh.easyview.eu/hls/cbeebies.m3u8
+#EXTINF:0,(UK) ITV 1
+https://ovh.easyview.eu/hls/itv.m3u8
+#EXTINF:0,(UK) ITV 2
+https://ovh.easyview.eu/hls/itv2.m3u8
+#EXTINF:0,(UK) ITV 3
+https://ovh.easyview.eu/hls/itv3.m3u8
+#EXTINF:0,(UK) ITV 4
+https://ovh.easyview.eu/hls/itv4.m3u8
+#EXTINF:0,(UK) CITV
+https://ovh.easyview.eu/hls/citv.m3u8
+#EXTINF:0,(UK) ITVBe
+https://ovh.easyview.eu/hls/itvbe.m3u8
+#EXTINF:0,(UK) ITV Encore
+https://ovh.easyview.eu/hls/itvencore.m3u8
+#EXTINF:0,(UK) CHANNEL 4
+https://ovh.easyview.eu/hls/channel4.m3u8
+#EXTINF:0,(UK) FILM 4
+https://ovh.easyview.eu/hls/film4.m3u8
+#EXTINF:0,(UK) E4
+https://ovh.easyview.eu/hls/e4.m3u8
+#EXTINF:0,(UK) 4Seven
+https://ovh.easyview.eu/hls/4seven.m3u8
+#EXTINF:0,(UK) More 4
+https://ovh.easyview.eu/hls/more4.m3u8
+#EXTINF:0,(UK) FIVE
+https://ovh.easyview.eu/hls/five.m3u8
+#EXTINF:0,(UK) DAVE
+https://ovh.easyview.eu/hls/dave.m3u8
+#EXTINF:0,(UK) DAVE JA VU
+https://ovh.easyview.eu/hls/davejavu.m3u8
+#EXTINF:0,(UK) GOLD
+https://ovh.easyview.eu/hls/gold.m3u8
+#EXTINF:0,(UK) CHALLENGE
+https://ovh.easyview.eu/hls/challenge.m3u8
+#EXTINF:0,(UK) REALLY
+https://ovh.easyview.eu/hls/really.m3u8
+#EXTINF:0,(UK) YESTERDAY
+https://ovh.easyview.eu/hls/yesterday.m3u8
+#EXTINF:0,(UK) DRAMA
+https://ovh.easyview.eu/hls/drama.m3u8
+#EXTINF:0,(UK) QUEST
+https://ovh.easyview.eu/hls/quest.m3u8
+#EXTINF:0,(UK) QUEST RED
+https://ovh.easyview.eu/hls/questred.m3u8
+#EXTINF:0,(UK) FOOD NETWORK +1
+https://ovh.easyview.eu/hls/foodnetworkplus1.m3u8
+#EXTINF:0,(UK) TRAVEL CHANNEL +1
+https://ovh.easyview.eu/hls/travelchannelplus1.m3u8
+#EXTINF:0,(UK) BET
+https://ovh.easyview.eu/hls/betblackenttv.m3u8
+#EXTINF:0,(UK) FASHION TV
+https://ovh.easyview.eu/hls/fashiontv.m3u8
