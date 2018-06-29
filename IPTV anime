@@ -297,8 +297,7 @@ http://wowza2.mysoltv.com:1992/UK_ENG_tlc/index.m3u8
  
 #EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA Network" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1443_orig.png" group-title="USA Entertainment", USA Network
 http://vapi.vaders.tv/play/2462.m3u8?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9=
- EXTINF:-1,USA:The CW PIX 11 New York
-https://api.new.livestream.com/accounts/8896933/events/3104530/live.m3u8
+
 
  #EXTINF:0, tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/818139653631053825/XL0qCuSm.jpg" tvg-name="Shop LC"  group-title="USA",Shop LC
 https://dpfbqenlgkzdh.cloudfront.net/shoplc_backup/live.m3u8
@@ -514,8 +513,9 @@ http://stream.dubstep.fm:80/256mp3
 #EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Music69/v4/6a/67/f8/6a67f8ab-04d6-8fe6-fb8f-9b0c6e34a34e/source/1200x630bb.jpg" group-title="24/7",Aqua Teen Hunger Force 
 https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://when-will.net/images/artikel/2015/september/Black-Jesus.jpg" group-title="24/7",Black Jesus
-http://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
+ EXTINF:-1,USA:The CW PIX 11 New York
+https://api.new.livestream.com/accounts/8896933/events/3104530/live.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/DSBjpDP.jpg" group-title="24/7",Christmas Fireplace
 http://silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfireplace_master.m3u8
