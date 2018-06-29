@@ -148,14 +148,307 @@ https://mdstrm.com/live-stream-playlist_IPTVColombia/58dc3d471cbe05ff3c8e463e.m3
 #EXTINF:-1,ECUADOR CENTRO
 http://unsecure.streann.com/loadbalancer/services/public/channels/57cef28b2cdc6843385b86ce/playlist.m3u8
 
-#EXTINF:-1,George De La Selva
-http://cecegeek@goo.gl/GiHBk5
 
-#EXTINF:-1,ESTRENOS:THE MINE (2017)
-http://bit.ly/THEMINE
+Not a member of Pastebin yet? Sign Up, it unlocks many cool features!
+rawdownloadcloneembedreportprint text 89.08 KB
+#EXTM3U
+#EXTINF:-1 tvg-id="ABC.us" tvg-name="ABC" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1411_orig.png" group-title="USA Entertainment", ABC
+http://vapi.vaders.tv/play/2435.m3u8?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9=
+ 
+#EXTINF:-1 tvg-id="AandE.us" tvg-name="A&E" tvg-logo="http:// drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p972_1_orig.png" group-title="USA Entertainment", A&E
+http://vapi.vaders.tv/play/2463.m3u8?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9=
+ 
+#EXTINF:-1 tvg-id="" tvg-name="AKC TV" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1633_orig.png" group-title="USA Entertainment", AKC TV
+https://video.blivenyc.com/broadcast/2061/22/file-858k.m3u8
+ 
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1365_orig.png" group-title="USA Entertainment", AMC
+http://vapi.vaders.tv/play/2436.m3u8?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9=
+ 
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p1001_1_orig.png" group-title="USA Entertainment", Animal Planet
+http://vapi.vaders.tv/play/2437.m3u8?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9=
+ 
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="Bravo" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1413_orig.png" group-title="USA Entertainment", Bravo
+http://vapi.vaders.tv/play/2438.m3u8?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9=
+ 
+#EXTINF:-1 tvg-id="BuzzrTV.us" tvg-name="Buzzr TV" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1650_orig.png" group-title="USA Entertainment", Buzzr TV
+https://buzzr-zixi.global.ssl.fastly.net/BUZZR_HLS_TEST.m3u8?hlsid=HTTP_ID_777
+ 
+#EXTINF:-1 tvg-id="CartoonNetwork.uk" tvg-name="Cartoon Network" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1436_orig.png" group-title="USA Entertainment", Cartoon Network
+http://vapi.vaders.tv/play/2439.m3u8?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9=
+ 
+#EXTINF:-1 tvg-id="CBS.us" tvg-name="CBS" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1412_orig.png" group-title="USA Entertainment", CBS
+http://vapi.vaders.tv/play/2440.m3u8?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9=
+ 
+#EXTINF:-1 tvg-id="Comet.us" tvg-name="Comet TV" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1420_orig.png" group-title="USA Entertainment", Comet TV
+https://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?
+ 
+#EXTINF:-1 tvg-id="" tvg-name="Charge" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1428_orig.png" group-title="USA Entertainment", Charge
+https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8?
+ 
+#EXTINF:-1 tvg-id="" tvg-name="Classic Arts Showcase" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p978_1_orig.png" group-title="USA Entertainment", Classic Arts Showcase
+http://cds.d3r6a3c9.hwcdn.net/live/smil:CAS.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="CW.us" tvg-name="CW" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1424_orig.png" group-title="USA Entertainment", CW
+http://vapi.vaders.tv/play/8198.m3u8?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9=
+ 
+#EXTINF:-1 tvg-id="DiscoveryChanel.uk" tvg-name="Discovery" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p965_1_orig.png" group-title="USA Entertainment", Discovery Channel HD
+http://vapi.vaders.tv/play/2445.m3u8?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9=
+ 
+#EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="Destination America" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1571_orig.png" group-title="USA Entertainment", Destination America HD
+https://content-ausw4.uplynk.com/channel/db762a708aa64082a610346d36654186/h.m3u8?pbs=7ef756186b5e4775bc6dec15cd74dd06
+ 
+#EXTINF:-1 tvg-id="Freeform.us" tvg-name="Freeform" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1410_orig.png" group-title="USA Entertainment", Freeform
+http://vapi.vaders.tv/play/2450.m3u8?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9=
+ 
+#EXTINF:-1 tvg-id="" tvg-name="Free Speech TV" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1434_orig.png" group-title="USA Entertainment", Free Speech TV
+https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+ 
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="Food Network" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1634_orig.png" group-title="USA Entertainment", Food Network
+https://ovh.easyview.eu/hls/foodnetworkplus1.m3u8
+ 
+#EXTINF:-1 tvg-id="FoxAction.mx" tvg-name="FOX Action" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1620_orig.png" group-title="USA Entertainment", FOX Action OFFLINE
+http://66.70.179.201:25461/live/Local/149018/2.m3u8
+ 
+#EXTINF:-1 tvg-id="Fox.uk" tvg-name="FOX" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1343_orig.png" group-title="USA Entertainment", FOX
+http://vapi.vaders.tv/play/2448.m3u8?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9=
+ 
+#EXTINF:-1 tvg-id="FXX.us" tvg-name="FXX" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1408_orig.png" group-title="USA Entertainment", FXX
+http://vapi.vaders.tv/play/2452.m3u8?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9=
+ 
+#EXTINF:-1 tvg-id="Hallmark.us" tvg-name="Hallmark" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1418_orig.png" group-title="USA Entertainment", Hallmark
+http://vapi.vaders.tv/play/2453.m3u8?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9=
+ 
+#EXTINF:-1 tvg-id="" tvg-name="Hit Music Channel" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1414_orig.png" group-title="USA Entertainment", Hit Music Channel
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
+ 
+#EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p1002_orig.png" group-title="USA Entertainment", HGTV HD
+http://vapi.vaders.tv/play/2454.m3u8?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9=
+ 
+#EXTINF:-1 tvg-id="HistoryChannel.us" tvg-name="History Channel" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1421_orig.png" group-title="USA Entertainment", History Channel HD
+http://vapi.vaders.tv/play/2915.m3u8?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9=
+ 
+#EXTINF:-1 tvg-id="" tvg-name="IndieWave" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1419_orig.png" group-title="USA Entertainment", IndieWave
+https://vcnindiewave.teleosmedia.com/stream/indiewave/indiewave/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="Investigation Discovery" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p960_1_orig.png" group-title="USA Entertainment", Investigation Discovery HD
+https://content-ausw3.uplynk.com/channel/a6fe2dd55b3149a6a59154a93e348012/h.m3u8?pbs=a089fc6c8ffc42d081b85ba79b60ab56
+ 
+#EXTINF:-1 tvg-id="" tvg-name="Kartoon Funtime Network" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1406_orig.png" group-title="USA Entertainment", Kartoon Funtime Network
+https://prolivestream.tv/KartoonFunTime.m3u8
+ 
+#EXTINF:-1 tvg-id="LifetimeNetwork.us" tvg-name="Lifetime" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1409_orig.png" group-title="USA Entertainment", Lifetime Network HD
+http://vapi.vaders.tv/play/2465.m3u8?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9=
+ 
+#EXTINF:-1 tvg-id="MTV.uk" tvg-name="MTV" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1561_orig.png" group-title="USA Entertainment", MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+ 
+#EXTINF:-1 tvg-id="NatGeo.us" tvg-name="National Geographic" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1618_orig.png" group-title="USA Entertainment", National Geographic
+http://gootvonline.net:8585/live/allwatch/QXoWXWm5Nk/44.m3u8
+ 
+#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1344_orig.png" group-title="USA Entertainment", NBC
+http://vapi.vaders.tv/play/2455.m3u8?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9=
+ 
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1564_orig.png" group-title="USA Sports", NBC Sports Network HD
+http://vapi.vaders.tv/play/2562.m3u8?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9=
+ 
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1417_orig.png" group-title="USA Entertainment", Nickelodeon
+http://vapi.vaders.tv/play/2460.m3u8?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9=
+ 
+#EXTINF:-1 tvg-id="OprahWinfreyNetwork.us" tvg-name="OWN" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1622_orig.png" group-title="USA Entertainment", Oprah Winfrey Network HD
+http://w3.cdn.anvato.net/live/ephemeral/3QA1gOwdRzqhnwPBUewI5VY7Yd9pnkvb/owny/4296k/index.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="PBS" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1569_orig.png" group-title="USA Entertainment", PBS
+http://vapi.vaders.tv/play/2774.m3u8?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9=
+ 
+#EXTINF:-1 tvg-id="PBSKids.us" tvg-name="PBS Kids" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1435_orig.png" group-title="USA Entertainment", PBS Kids
+https://live-cdn.pbskids.org/out/u/aim/wttw.m3u8
+ 
+#EXTINF:-1 tvg-id="PopTV.us" tvg-name="Pop TV" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1562_orig.png" group-title="USA Entertainment", Pop TV
+https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master.m3u8
+ 
+#EXTINF:-1 tvg-id="QVC.us" tvg-name="QVC" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1336_orig.png" group-title="USA Entertainment", QVC
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="Spydar TV" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1400_orig.png" group-title="USA Entertainment", Spydar TV
+https://nimble.dashmedia.tv/onestudio/spydar/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="TBD" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1429_orig.png" group-title="USA Entertainment", TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+ 
+#EXTINF:-1 tvg-id="TravelChannel.uk" tvg-name="Travel Channel" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1570_orig.png" group-title="USA Entertainment", Travel Channel
+https://ovh.easyview.eu/hls/travelchannelplus1.m3u8
+ 
+#EXTINF:-1 tvg-id="TLC.us" tvg-name="TLC" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p1003_orig.png" group-title="USA Entertainment", TLC
+http://wowza2.mysoltv.com:1992/UK_ENG_tlc/index.m3u8
+ 
+#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA Network" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1443_orig.png" group-title="USA Entertainment", USA Network
+http://vapi.vaders.tv/play/2462.m3u8?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9=
+ 
+ https://nimble.dashmedia.tv/onestudio/spydar/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="TBD" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1429_orig.png" group-title="USA Entertainment", TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+ 
+#EXTINF:-1 tvg-id="TravelChannel.uk" tvg-name="Travel Channel" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1570_orig.png" group-title="USA Entertainment", Travel Channel
+https://ovh.easyview.eu/hls/travelchannelplus1.m3u8
+ 
+#EXTINF:-1 tvg-id="TLC.us" tvg-name="TLC" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p1003_orig.png" group-title="USA Entertainment", TLC
+http://wowza2.mysoltv.com:1992/UK_ENG_tlc/index.m3u8
+ 
+#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA Network" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1443_orig.png" group-title="USA Entertainment", USA Network
+http://vapi.vaders.tv/play/2462.m3u8?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9=
+ 
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-name="ABC News" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p962_1_orig.png" group-title="USA News", ABC News
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+ 
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Aljazeera" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p998_1_orig.png" group-title="USA News", Aljazeera
+https://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8
+ 
+#EXTINF:-1 tvg-id="BloombergTV.uk" tvg-name="Bloomberg" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p999_1_orig.png" group-title="USA News", Bloomberg
+https://bblive-liveproduseast.hs.llnwd.net/btv/desktop/us_live.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="CBSN" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1416_orig.png" group-title="USA News", CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="Cheddar" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1619_orig.png" group-title="USA News", Cheddar
+https://content.uplynk.com/channel/4ee18bd581dc4d3b90303e0cb9beeb0f.m3u8
+ 
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p979_1_orig.png" group-title="USA News", CNN *Fixed*
+http://vapi.vaders.tv/play/2442.m3u8?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9=
+ 
+#EXTINF:-1 tvg-id="CAPAN.us" tvg-name="C-Span" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p988_1_orig.png" group-title="USA News", C-Span
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8?
+ 
+#EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1368_orig.png" group-title="USA News", CNBC International
+http://93.87.85.71/PLTV/88888888/224/3221226774/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9cUL0yoetz%2BvKdx%2Fd54YxqItYB1ayo8ZvEJFS8LuNff4%3D%3A20180117221111%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117221111%2Curn%3AHuawei%3AliveTV%3AXTV100001815%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2&from=2&hms_devid=4
+ 
+#EXTINF:-1 tvg-id="CSPAN2.us" tvg-name="C-Span 2" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p987_1_orig.png" group-title="USA News", C-Span 2
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
+ 
+#EXTINF:-1 tvg-id="CSPAN3.us" tvg-name="C-Span 3" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p986_1_orig.png" group-title="USA News", C-Span 3
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
+ 
+#EXTINF:-1 tvg-id="FoxBusiness.us" tvg-name="Fox Business Network HD" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p952_1_orig.png" group-title="USA News", Fox Business Network HD
+http://fbntve-i.akamaihd.net/hls/live/200667/fbntve/HD.m3u8
+ 
+#EXTINF:-1 tvg-id="FoxNews.us" tvg-name="Fox News Channel HD" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p983_1_orig.png" group-title="USA News", Fox News Channel HD
+http://fnctve-i.akamaihd.net/hls/live/200669/fnctve/HD.m3u8
+ 
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1623_orig.png" group-title="USA News", France 24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+ 
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p985_1_orig.png" group-title="USA News", MSNBC
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="NDTV" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1625_orig.png" group-title="USA News", NDTV
+https://ndtvstream-lh.akamaihd.net/i/ndtv_24x7_1@300633/master.m3u8
+ 
+#EXTINF:-1 tvg-id="Newsmax.us" tvg-name="Newsmax TV" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p982_1_orig.png" group-title="USA News", Newsmax TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="Newsy" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1617_orig.png" group-title="USA News", Newsy
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
+ 
+#EXTINF:-1 tvg-id="NHKWorld.jp" tvg-name="NHK World" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1624_orig.png" group-title="USA News", NHK World News
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="RT America" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p967_1_orig.png" group-title="USA News", RT America
+https://secure-streams.akamaized.net/rt-usa/index.m3u8
+ 
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p995_1_orig.png" group-title="USA News", TRT World
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+ 
+#EXTINF:-1 tvg-id="WeatherChannel.us" tvg-name="The Weather Channel" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p991_1_orig.png" group-title="USA News", The Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+ 
+#EXTINF:-1 tvg-id="WeatherNation.us" tvg-name="Weather Nation" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p990_1_orig.png" group-title="USA News", Weather Nation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8?referrer=aHR0cDovL3d3dy50aG9ybnRvbndlYXRoZXIuY29t&playSessionId=4b35b8be-5eb6-d83e-c7be-2d4acc49424f
+ 
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-name="BTN" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1573_orig.png" group-title="USA Sports", Big Ten Network
+http://vapi.vaders.tv/play/39861.m3u8?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9=
+ 
+#EXTINF:-1 tvg-id="" tvg-name="CBS Sports HQ" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1369_orig.png" group-title="USA Sports", CBS Sports HQ
+https://cbssportsdc-i.akamaihd.net/hls/live/518856/dc_1/desktop.m3u8
+ 
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1649_orig.png" group-title="USA Sports", ESPN
+http://vapi.vaders.tv/play/2565.m3u8?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9=
+ 
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1658_orig.png" group-title="USA Sports", ESPN 2
+http://vapi.vaders.tv/play/2566.m3u8?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9=
+ 
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPN U" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1659_orig.png" group-title="USA Sports", ESPN U
+http://vapi.vaders.tv/play/2567.m3u8?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9=
+ 
+#EXTINF:-1 tvg-id="ESPNNews.us" tvg-name="ESPNews" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1660_orig.png" group-title="USA Sports", ESPNews
+http://vapi.vaders.tv/play/2564.m3u8?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9=
+ 
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1671_orig.png" group-title="USA Sports", Fox Sports 2
+http://vapi.vaders.tv/play/2569.m3u8?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9=
+ 
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1670_orig.png" group-title="USA Sports", Fox Sports 1
+https://nlcache5.streamlive.to/edge/svsgthhwl6djj5h/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNC8yMDE4IDEwOjQxOjU2IEFNJmhhc2hfdmFsdWU9R2lNdk0zU1pUM3hwc3Q3K2NxU01zdz09JnZhbGlkbWludXRlcz0xMDAmc3RybV9sZW49MjAmaWQ9NTAuNjUuMTg4LjEwMA==
+ 
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p964_1_orig.png" group-title="USA Sports", MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+ 
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1572_orig.png" group-title="USA Sports", NFL Network
+http://vapi.vaders.tv/play/2744.m3u8?
+ 
+#EXTINF:-1 tvg-id="" tvg-name="NFL Now" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p977_1_orig.png" group-title="USA Sports", NFL Now
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+ 
+#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="NHL Network" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1635_orig.png" group-title="USA Sports", NHL Network
+https://live119.elrobacanales.com/budtv/nhl.network.usa/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Pac12Arizona.us" tvg-name="Pac-12 Arizona" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1398_orig.png" group-title="USA Sports", Pac- 12 Arizona
+http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
+ 
+#EXTM3U
+#EXTINF:-1 tvg-id="Pac12BayArea.us" tvg-name="Pac- 12 Bay Area" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1404_orig.png" group-title="USA Sports", Pac- 12 Bay Area
+http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
+ 
+#EXTM3U
+#EXTINF:-1 tvg-id="Pac12LosAngeles.us" tvg-name="Pac-12 Los Angeles" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1399_orig.png" group-title="USA Sports", Pac-12 Los Angeles
+http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
+ 
+#EXTM3U
+#EXTINF:-1 tvg-id="Pac12Mountain.us" tvg-name="Pac-12 Mountain" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1403_orig.png" group-title="USA Sports", Pac-12 Mountain
+http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
+ 
+#EXTM3U
+#EXTINF:-1 tvg-id="Pac12Network.us" tvg-name="Pac-12 National" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1422_orig.png" group-title="USA Sports", Pac-12 National
+http://p12n-lh.akamaihd.net/i/network_delivery@428818/master.m3u8
+ 
+#EXTM3U
+#EXTINF:-1 tvg-id="Pac12Oregon.us" tvg-name="Pac-12 Oregon" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1397_orig.png" group-title="USA Sports", Pac-12 Oregon
+http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
+ 
+#EXTM3U
+#EXTINF:-1 tvg-id="Pac12Washington.us" tvg-name="Pac-12 Washington" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1405_orig.png" group-title="USA Sports", Pac-12 Washington
+http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="RedBull TV" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1390_orig.png" group-title="USA Sports", RedBull TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="Stadium" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1391_orig.png" group-title="USA Sports", Stadium
+https://04476b7c682c4da8b8b4bfe23ef879c1.midas.us-east-1.amazonaws.com/v1/master/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/hls/live/522512/mux_4/master.m3u8
+ 
+ 
+ 
 
-#EXTINF:-1,ESTRENOS:Sandy Wexler (2017)
-http://bit.ly/MRAQCSAND
+
+
+
+
+
 
 #EXTM3U
 
