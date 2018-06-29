@@ -96,8 +96,8 @@ http://vapi.vaders.tv/play/2445.m3u8?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uPvJzrz.png" group-title="USA",Investigation Discovery [HD]
 https://content-ausw3.uplynk.com/channel/a6fe2dd55b3149a6a59154a93e348012/h.m3u8?pbs=a089fc6c8ffc42d081b85ba79b60ab56
 
-EXTINF:-1,USA:The CW PIX 11 New York
-https://api.new.livestream.com/accounts/8896933/events/3104530/live.m3u8
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/800px-OWN_2011_logo.svg.png"" group-title="OWN",OWN
 http://w3.cdn.anvato.net/live/ephemeral/3QA1gOwdRzqhnwPBUewI5VY7Yd9pnkvb/owny/4296k/index.m3u8
@@ -297,7 +297,9 @@ http://wowza2.mysoltv.com:1992/UK_ENG_tlc/index.m3u8
  
 #EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA Network" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1443_orig.png" group-title="USA Entertainment", USA Network
 http://vapi.vaders.tv/play/2462.m3u8?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9=
- 
+ EXTINF:-1,USA:The CW PIX 11 New York
+https://api.new.livestream.com/accounts/8896933/events/3104530/live.m3u8
+
  
  
  
