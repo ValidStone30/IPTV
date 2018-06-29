@@ -370,7 +370,8 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1 tvg-id="WeatherNation.us" tvg-name="Weather Nation" tvg-logo="http://drizzlecast.weebly.com/uploads/9/3/4/3/93437678/p990_1_orig.png" group-title="USA News", Weather Nation
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8?referrer=aHR0cDovL3d3dy50aG9ybnRvbndlYXRoZXIuY29t&playSessionId=4b35b8be-5eb6-d83e-c7be-2d4acc49424f
  
- 
+ #EXTINF:0,NFL Network
+http://nlds21.cdnak.neulion.com/nlds/nfl/nfltv/as/live/nfltv_hd_androidtab.m3u8?hdnea=expires=1516072054~access=/nlds/nfl/nfltv/as/live/*~md5=d8d69ae369547e7ec9ae2facd432366d&mvpd=sony_auth-gateway_net&__sid__=f3efdd60-bab1-3de2-138d-fc0b7f000001&nltid=nflno&nltdt=13&nltnt=1
  
  
  
