@@ -443,7 +443,8 @@ http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Stadium" tvg-logo="https://cloud9tv.weebly.com/uploads/9/3/4/3/93437678/p1391_orig.png" group-title="USA Sports", Stadium
 https://04476b7c682c4da8b8b4bfe23ef879c1.midas.us-east-1.amazonaws.com/v1/master/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/hls/live/522512/mux_4/master.m3u8
  
- 
+#EXTINF:0,BT ESPN Sports  SPT7 
+http://sport7.pw/lba/NWQ4OGRiYzA3NzFlMWUxOWU0NDU5YWYyMTZiZmIzNmI=/g6/btsportespn.m3u8
  
 
 
