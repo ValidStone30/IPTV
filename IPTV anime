@@ -539,9 +539,9 @@ http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PgkXesQ.png" group-title="NEWS",C-SPAN 3 (USA)
 http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
+#EXTINF:-1,Evine Live
+https://aos01-evine.secure.footprint.net/evine/dirty/appleman.m3u8
 
-#EXTINF:-1,Fight Network
-http://tv.bmx-tv.top:1935/live/2.smil/playlist.m3u8
 
 
 #EXTM3U
