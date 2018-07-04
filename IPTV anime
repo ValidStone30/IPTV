@@ -544,11 +544,11 @@ https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC122/chunkli
 
 #EXTM3U
 #EXTINF:-1,BT Sport 1
-http://31.220.0.134:8081/live/jtvb1/playlist.m3u8
+http://62.210.214.28:80/live?channelId=140&uid=1732&deviceMac=00:1A:79:3C:C0:90
 #EXTINF:-1,BT Sport 2
-http://31.220.0.134:8081/live/jtvb2/playlist.m3u8
+http://62.210.214.28:80/live?channelId=142&uid=1732&deviceMac=00:1A:79:3C:C0:90
 #EXTINF:-1,BT Sport 3
-http://31.220.0.134:8081/live/jtvb3/playlist.m3u8 #EXTM3U
+http://31.220.0.134:8081/live/jtvb3/playlist.m3u8 
 #EXTINF:-1,BT Sport 1
 http://31.220.0.134:8081/live/jtvb1/playlist.m3u8
 #EXTINF:-1,BT Sport 2
@@ -591,9 +591,10 @@ http://sportsbar.pw/lba/YjRhN2RlYjAxNWM2ZjIzYzM5ZjRmZmFmODEzOGQ3NGE=/g10/SkyFoot
 http://sportsbar.pw/lba/YjRhN2RlYjAxNWM2ZjIzYzM5ZjRmZmFmODEzOGQ3NGE=/g4/BTSport3.m3u8
 #EXTINF:2.2059,Bein3tk.
 http://sportsbar.pw/lba/YjRhN2RlYjAxNWM2ZjIzYzM5ZjRmZmFmODEzOGQ3NGE=/g8/bein3tk.m3u8 #EXTM3U
-#EXTINF:-1,BBCsport 
-http://185.59.221.136:9981/stream/channelid/650783408?ticket=4c27bbdb52ebd57967b51edbffa595d54108058e&profile=pass #EXTINF:-1 ,ITV1 HD
-http://185.59.221.136:9981/stream/channelid/1998784340?ticket=0b47b025e7dfcfa70ee686f65356823b4696e9e2&profile=pass
+#EXTINF:-1,ESPN HD(USA)
+http://80.80.160.168/live/6/2500000/live.m3u8
+
+
 
 #EXTINF:-1,ITV2 HD
 http://185.59.221.136:9981/stream/channelid/2139720971?ticket=5c8bd2021f95cb20b3a9fb025a136b06cfaaec7f&profile=pass #EXTINF:-1,Russia Today
