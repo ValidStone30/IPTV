@@ -142,8 +142,9 @@ http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
 http://na-us-se13.secdn.net/pegstream3-live/play/5f0d9ca5-4e85-4c01-a426-9ec8d44c2c9c/playlist.m3u8
 
 
-#EXTINF:-1,CARACOL TV
-https://mdstrm.com/live-stream-playlist_IPTVColombia/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:-1,ESPN HD(USA)
+http://80.80.160.168/live/6/2500000/live.m3u8
+
 
 #EXTINF:-1,ECUADOR CENTRO
 http://unsecure.streann.com/loadbalancer/services/public/channels/57cef28b2cdc6843385b86ce/playlist.m3u8
