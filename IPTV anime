@@ -576,7 +576,7 @@ http://62.210.214.28:80/live?channelId=153&uid=1732&deviceMac=00:1A:79:3C:C0:90
 
 
 #EXTINF:-1,BT Sport 3
-http://31.220.0.134:8081/live/jtvb3/playlist.m3u8 
+http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g3/BTSport2.m3u8
 #EXTINF:-1,BT Sport 1
 http://31.220.0.134:8081/live/jtvb1/playlist.m3u8
 #EXTINF:-1,BT Sport 2
