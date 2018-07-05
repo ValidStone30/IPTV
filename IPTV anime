@@ -547,8 +547,9 @@ https://aos01-evine.secure.footprint.net/evine/dirty/appleman.m3u8
 
 
 #EXTM3U
-#EXTINF:0,BT Sport 1 - BT Sport 1
-http://62.210.214.28:80/live?channelId=140&uid=1732&deviceMac=00:1A:79:3C:C0:90
+#EXTINF:-1,BT SPORT 2 HD
+http://cdnv.cli.tn/iptv/ch1829?code=610116485444847
+
 #EXTINF:0,BT Sport 1 HD - BT Sport 1 HD
 http://62.210.214.28:80/live?channelId=141&uid=1732&deviceMac=00:1A:79:3C:C0:90
 #EXTINF:0,BT Sport 2 - BT Sport 2
