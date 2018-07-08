@@ -586,7 +586,7 @@ http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g3/BTSport2
 #EXTINF:-1,BT Sport 1
 http://31.220.0.134:8081/live/jtvb1/playlist.m3u8
 #EXTINF:-1,BT Sport 2
-http://31.220.0.134:8081/live/jtvb2/playlist.m3u8
+http://31.220.0.117:1935/tv/BSr715Im6t20180321/playlist.m3u8?hlsendtime=1531016040&hlsstarttime=0&hlshash=xrVrs1LKmqtIz5jFEg-Y3l99g3_eZnVtRw6yKQTju38=
 #EXTINF:-1,BT Sport 3
 http://31.220.0.134:8081/live/jtvb3/playlist.m3u8
 #EXTINF:-1,SKY Sport 1
