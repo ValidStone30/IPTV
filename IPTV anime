@@ -12,7 +12,8 @@ http://cmctv.ios.internapcdn.net:80/cmctv_vitalstream_com/live_1/CMC-TV/CCURstre
 
 #EXTINF:0,[USA]---ABC NEWS
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
-
+#EXTINF:0, group-title="Tamil",BT SPORT 2 HD
+http://163.172.42.245:8081/z/bt2/playlist.m3u8
 
 #EXTINF:-1,Music", Classic
 http://93.87.85.10/PLTV/88888888/224/3221226771/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9cUL0yoetz%2BvKdx%2Fd54YxqKWwzvrPe0nHyEb6BWGC8kg%3D%3A20180117221111%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117221111%2Curn%3AHuawei%3AliveTV%3AXTV100001844%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
