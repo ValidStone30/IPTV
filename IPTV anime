@@ -35,7 +35,8 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SvQJJD4.png" group-title="NEWS",MSNBC (USA)
 http://tvemsnbc-lh.akamaihd.net:80/i/nbcmsnbc_1@122532/index_2596_av-b.m3u8
-
+#EXTINF:-1,TLC
+http://wowza2.mysoltv.com:1992/UK_ENG_tlc/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://corporate.pluto.tv/wp-content/uploads/2016/05/Pluto_logo-white_675x675.png" group-title="NEWS",Pluto TV News (USA)
