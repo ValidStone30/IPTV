@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<items>
+
+<!--sportsdevil iguide-->
+
+<item>
+<title>sportsdevil iguide</title>
+	<sportsdevil>http://www.iguide.to/embedplayer_new.php?channel=33454&autoplay=true</sportsdevil>
+	<referer>http://www.iguide.to</referer>
+</item>
+
+<!--sportsdevil Janjua-->
+
+<item>
+<title>sportsdevil janjua</title>
+<sportsdevil>http://m4ufree.tv/watch-oyiob-avengers-infinity-war-2018-movie-online-free-m4ufree.html</sportsdevil>
+<referer>http://aflam4you.tv</referer>
+</item>
+
+<item><title>[COLOR lightblue]C+ Partidazo [/COLOR] [COLOR lightslategray][I]sportsdevil[/I][/COLOR] </title><sportsdevil>http://cinestrenostv.tv/canales/deportes/plus-partidazo.php</sportsdevil>
+<thumbnail>http://satcesc.com/web/wp-content/uploads/2015/08/canal-plus-partidazo.jpg</thumbnail>
+<info>canal plus partidazo  </info>
+<referer>http://cinestrenostv.tv</referer></item>
+
+
+<item><title>[COLOR lightblue]C+ Liga [/COLOR]  [COLOR lightslategray][I]sportsdevil[/I][/COLOR] </title>
+<sportsdevil>http://verdirectotv.com/tv/deportes2/plusliga.html</sportsdevil>
+<referer>http://verdirectotv.com</referer>
+<thumbnail>http://coditelcordoba.com/wp-content/uploads/2014/07/canal+liga.jpg</thumbnail>
+</item>
+
+
+
+<!--Listas m3u/rtmp link-->
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue] Lista M3U/RTMP[/COLOR] </title>
+<link>http://ignorame</link>
+<thumbnail>http://es.testsworld.net/files/2013/02/test-de-deporte.jpg</thumbnail>
+<fanart>http://7-themes.com/data_images/out/31/6874905-auto-wallpapers.jpg</fanart>
+<externallink>rtmp://198.16.72.242/stream/2212L?e=1523388286&st=TVlDDg3LbvPF77f6n7dORA</externallink>
+</item>
+
+<!--regex vimeo -->
+
+<item>
+<title>VIMEO  </title>        
+<link>https://player.vimeo.com/video/127949961?autoplay=1</link>
+</item>
+
+<!--F4m Archivos HLS -->
+
+<item>
+            <title>m3u8 HLS F4m Tester</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL919/PROFILE03.m3u8</link>
+			<thumbnail></thumbnail>
+			</item>
+
+<!--F4m Archivos TS -->
+			
+<item>
+            <title>F4m Archivos TS</title>
+			<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ORBIT-IPTV.COM:2500/live/bank/bank/63.ts</link>
+			<thumbnail></thumbnail>
+			</item>
+
+<!--m3u8  -->
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR orangered][B] m3u8 ...[/B][/COLOR] </title>
+<link>http://s1.livesport365.stream/m3u8/YiX1EswUsGnyTTm3z/f/P1uZpnXhrEwOGry5RYISsCcfS9DIg88D0ak2iKfVUFQirk97IJfgtAjCD+YjujP1o/h9B3dU8ok2cbnC3N8LlLgQSqMZcLQ4qnbuTFPQgM6ASbkH/K/XCEB44X+fWhgP6B0VQFJOapI/rkkJkBUZ9UdE9S2xLOs/Z6kO0LWGQiH/GCQKMEOb8Mv5zF09w1I+ww==/playlist.m3u8 I</link>
+<thumbnail>https://i.imgur.com/MCGNAMK.png</thumbnail>
+</item>
+
+<!--Regex Ucaster-->
+
+		<item>
+<title>[COLOR lime]•[/COLOR][COLOR orangered][B] Regex Ucaster[/B][/COLOR] </title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.embeducaster.com/membedplayer/foxveronika/1/680/380</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.embeducaster.com</referer>
+</regex>
+<thumbnail>http://y.cdn.entutele.com/media/channels/big/fox-1.gif</thumbnail></item>
+
+<!--Regex MIPS -->
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR orangered][B] Regex Mips[/B][/COLOR] </title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://cdn.mipspublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.mips.tv/membedplayer/verliga2223/1/680/380</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.mips.tv</referer>
+</regex>
+<thumbnail>http://y.cdn.entutele.com/media/channels/big/golden-hd.gif</thumbnail></item>
+
+
+
+
+<!--Lista Streamup-->
+
+<item>
+<title> [COLOR lime]Lista Streamup[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item> <title>[COLOR hotpink][makelist.param1][/COLOR][COLOR pink]   ([makelist.param2])[/COLOR]</title> 
+<link>https://$doregex[get-response]/app/$doregex[get-id]_aac/playlist.m3u8</link>
+<regex><name>get-response</name><expres>(.*)</expres>
+<page>https://lancer.streamup.com/api/redirect/$doregex[get-id]</page></regex>
+<regex><name>get-id</name><expres>"roomSlug": "(.*?)"</expres>
+<page>http://streamup.com/[makelist.param1]</page></regex>
+<info>[makelist.param2]</info>
+<fanart>[makelist.param3]</fanart>
+<thumbnail>[makelist.param3]</thumbnail>
+</item>
+]]></listrepeat>
+<expres>play-btn" href="/(.*?)"[\w\W\s]{0,50}alt="(.*?)"[\w\W\s]{0,160}src="(.*?)"</expres>
+<page>https://streamup.com/search?q=entertainment</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<!--Filmon-->
+
+<item>
+  <title>news Regex Filmon</title>
+  <link>$doregex[sxlink]</link>
+  <regex>
+    <name>sxlink</name>
+    <expres><![CDATA[high.stream.*?(http.*?)[",']\W]]></expres>
+    <page>http://www.filmon.com/api-v2/channel/$doregex[ch_id]</page>
+    <referer>http://www.filmon.com/tv/channel/export?channel_id=$doregex[ch_id]</referer>
+    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
+    <accept>*/*; q=0.01</accept>
+    <cookieJar></cookieJar>
+    </includeheaders>
+  </regex>
+  <regex>
+    <name>ch_id</name>
+    <expres><![CDATA[clicked_channel_id.*?[",'](.*?)[",']\W]]></expres>
+    <page>https://www.filmon.com/tv/rt-espanol</page>
+    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
+    <accept>*/*; q=0.01</accept>
+    <cookieJar></cookieJar>
+    </includeheaders>
+  </regex>
+</item>  <!--Filmon-->
+
+<item>
+  <title>food  Regex Filmon</title>
+  <link>$doregex[sxlink]</link>
+  <regex>
+    <name>sxlink</name>
+    <expres><![CDATA[high.stream.*?(http.*?)[",']\W]]></expres>
+    <page>http://www.filmon.com/api-v2/channel/$doregex[ch_id]</page>
+    <referer>http://www.filmon.com/tv/channel/export?channel_id=$doregex[ch_id]</referer>
+    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
+    <accept>*/*; q=0.01</accept>
+    <cookieJar></cookieJar>
+    </includeheaders>
+  </regex>
+  <regex>
+    <name>ch_id</name>
+    <expres><![CDATA[clicked_channel_id.*?[",'](.*?)[",']\W]]></expres>
+    <page>https://www.filmon.com/tv/food-network-plus-1</page>
+    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
+    <accept>*/*; q=0.01</accept>
+    <cookieJar></cookieJar>
+    </includeheaders>
+  </regex>
+</item> !--Filmon-->
+
+<item>
+  <title>drama Regex Filmon</title>
+  <link>$doregex[sxlink]</link>
+  <regex>
+    <name>sxlink</name>
+    <expres><![CDATA[high.stream.*?(http.*?)[",']\W]]></expres>
+    <page>http://www.filmon.com/api-v2/channel/$doregex[ch_id]</page>
+    <referer>http://www.filmon.com/tv/channel/export?channel_id=$doregex[ch_id]</referer>
+    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
+    <accept>*/*; q=0.01</accept>
+    <cookieJar></cookieJar>
+    </includeheaders>
+  </regex>
+  <regex>
+    <name>ch_id</name>
+    <expres><![CDATA[clicked_channel_id.*?[",'](.*?)[",']\W]]></expres>
+    <page>https://www.filmon.com/tv/drama</page>
+    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
+    <accept>*/*; q=0.01</accept>
+    <cookieJar></cookieJar>
+    </includeheaders>
+  </regex>
+</item> <!--Filmon-->
+
+<item>
+  <title>channel 5 Regex Filmon</title>
+  <link>$doregex[sxlink]</link>
+  <regex>
+    <name>sxlink</name>
+    <expres><![CDATA[high.stream.*?(http.*?)[",']\W]]></expres>
+    <page>http://www.filmon.com/api-v2/channel/$doregex[ch_id]</page>
+    <referer>http://www.filmon.com/tv/channel/export?channel_id=$doregex[ch_id]</referer>
+    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
+    <accept>*/*; q=0.01</accept>
+    <cookieJar></cookieJar>
+    </includeheaders>
+  </regex>
+  <regex>
+    <name>ch_id</name>
+    <expres><![CDATA[clicked_channel_id.*?[",'](.*?)[",']\W]]></expres>
+    <page>https://www.filmon.com/tv/channel-5</page>
+    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
+    <accept>*/*; q=0.01</accept>
+    <cookieJar></cookieJar>
+    </includeheaders>
+  </regex>
+</item>
